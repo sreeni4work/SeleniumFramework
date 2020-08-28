@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="14715" started-at="2020-08-27T04:09:21Z" finished-at="2020-08-27T04:09:36Z">
+  <suite name="Default suite" duration-ms="15656" started-at="2020-08-28T00:43:55Z" finished-at="2020-08-28T00:44:10Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="14715" started-at="2020-08-27T04:09:21Z" finished-at="2020-08-27T04:09:36Z">
+    <test name="Default test" duration-ms="15656" started-at="2020-08-28T00:43:55Z" finished-at="2020-08-28T00:44:10Z">
       <class name="ChromeBrowserTest">
-        <test-method status="PASS" signature="chromeBrowser()[pri:0, instance:ChromeBrowserTest@2a70a3d8]" name="chromeBrowser" duration-ms="14670" started-at="2020-08-27T04:09:21Z" finished-at="2020-08-27T04:09:36Z">
+        <test-method status="PASS" signature="chromeBrowser()[pri:0, instance:ChromeBrowserTest@2a70a3d8]" name="chromeBrowser" duration-ms="15605" started-at="2020-08-28T00:43:55Z" finished-at="2020-08-28T00:44:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- chromeBrowser -->
